@@ -312,6 +312,7 @@ List of some useful free online tools and sites
 - [**Drawio** - (*Flowchart Maker & Online Diagram Software*)](https://app.diagrams.net/)
 - [**Excalidraw** - (*Whiteboard*)](https://excalidraw.com/)
 - [**FossFLOW** - (*Isometric Diagramming Tool*)](https://stan-smith.github.io/FossFLOW/)
+- [**Stitch** - (*Design with AI*)](https://stitch.withgoogle.com/)
 - [**Vectr** - (*Free Vector Grpahics Software*)](https://vectr.com/)
 - [**Visme** - (*Visual brand experiences*)](https://dashboard.visme.co/v2/projects/own)
 
