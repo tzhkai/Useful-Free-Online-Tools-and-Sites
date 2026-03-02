@@ -423,6 +423,7 @@ List of some useful free online tools and sites
 - [**JSON Editor** - (*Online editor for JSON files*)](https://www.appdevtools.com/json-editor)
 - [**JSON Editor Online** - (*Online editor for JSON files*)](https://jsoneditoronline.org/)
 - [**JSON Formatter** - (*Formats a JSON string/file with your desired indentation level*)](https://www.freeformatter.com/json-formatter.html)
+- [**JSON Minifier** - (*Minify your JSON data online to reduce file size*)](https://99tools.net/json-minifier/)
 - [**JSON to C#** - (*Convert JSON to C# Classes Online*)](https://json2csharp.com/)
 - [**JSON Validator** - (*Validates a JSON file*)](https://www.appdevtools.com/json-validator)
 - [**JWT Decoder** - (*Decode a JSON Web Token to view the claims inside*)](https://www.appdevtools.com/jwt-decoder)
