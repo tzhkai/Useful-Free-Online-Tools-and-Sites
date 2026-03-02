@@ -821,6 +821,7 @@ Thanks to:
 - [Andy Feliciotti](https://github.com/someguy9/)
 - [Brian Berrios](https://github.com/berriob2)
 - [Jose María Estrade](https://github.com/josemalive)
+- [nineinch99](https://github.com/nineinch99)
 - [Stevesmit](https://github.com/stevesmit)  
 
 <details>
