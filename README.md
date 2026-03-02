@@ -248,7 +248,6 @@ List of some useful free online tools and sites
 - [**Speed Converter** - (*Convert between Speed units*)](https://convertlive.com/c/convert/speed)
 - [**Time Converter** - (*Convert between Time units*)](https://convertlive.com/c/convert/time)
 - [**Torque Converter** - (*Convert between Torque units*)](https://convertlive.com/c/convert/torque)
-- [**Ultimate Wheel Spin** (*Randomly pick names by spinning a wheel*)](https://ultimatewheelspin.com/)
 - [**Unit Converter** - (*Converts a value from a unit to another*)](https://www.appdevtools.com/unit-converter)
 - [**Volume Converter** - (*Convert between Volume units*)](https://convertlive.com/c/convert/volume)
 - [**Weight Converter** - (*Convert between Weight units*)](https://convertlive.com/c/convert/weight)
@@ -452,6 +451,7 @@ List of some useful free online tools and sites
 - [**This Person Not Exist** - (*Creates an image of a person that not exist*)](https://thispersondoesnotexist.com/)
 - [**Paper Sizes** - (*Calculates between Size, PPI/DPI and Width/Height*)](https://www.papersizes.org/a-sizes-in-pixels.htm)
 - [**Scrt.link** - (*Share a Secret - Link that only works one time and then self-destructs*)](https://scrt.link/)
+- [**Ultimate Wheel Spin** (*Randomly pick names by spinning a wheel*)](https://ultimatewheelspin.com/)
 
 ## <a name="maps"></a>**Museums**
 - [**Basilica di San Pietro** - (*Virtual 3D Tour*)](https://virtual.basilicasanpietro.va/en)
