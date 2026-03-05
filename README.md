@@ -720,6 +720,7 @@ List of some useful free online tools and sites
 - [**Instagram Downloader** - (*Download Photos, Videos, IGTV & carousel*)](https://igram.io/)
 - [**Instagram Font Generator** - (*Stylish Bios & Captions*)](https://fossbytes.com/tools/insta-fonts)
 - [**Instagram Line Break Generator** - (*Create line breaks in your captions, bio, or comments!*)](https://textspacer.com/)
+- [**LinkedIn Text Formatter** - (*Format your LinkedIn text with bold, italic and more styles!*)](https://typefully.com/tools/linkedin-text-formatter)
 - [**LinkedIn Video Downloader** - (*Best Free online Video Downloader for Social Media Videos*)](https://viddownloader.online/linkedin-downloader/)
 - [**Meme Generator** - (*Meme Generator*)](http://memegenerator.net/)
 - [**OFFEO** - (*YouTube Downloader*)](https://offeo.com/download/youtube-downloader/)
