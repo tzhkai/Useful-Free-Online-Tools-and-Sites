@@ -252,6 +252,7 @@ List of some useful free online tools and sites
 - [**Unit Converter** - (*Converts a value from a unit to another*)](https://www.appdevtools.com/unit-converter)
 - [**Volume Converter** - (*Convert between Volume units*)](https://convertlive.com/c/convert/volume)
 - [**Weight Converter** - (*Convert between Weight units*)](https://convertlive.com/c/convert/weight)
+- [**ConvertPrivately** - (*Privacy-first file conversion and utility tools for PDFs, images, documents, and data — 250+ tools, almost all run in-browser with no uploads or tracking*)](https://convertprivately.com)
 
 ## <a name="charts"></a>**Charts**
 - [**Live Gap Charts** - (*Create your Chart*)](https://charts.livegap.com/app.php?lan=en&gallery=bar)
