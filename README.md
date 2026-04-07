@@ -617,6 +617,7 @@ List of some useful free online tools and sites
 - [**Octal to Decimal Converter** - (*Octal to decimal converter tool*)](https://www.binaryhexconverter.com/octal-to-decimal-converter)
 - [**Password Generator** - (*Generates a password with multiple options*)](https://www.appdevtools.com/password-generator)
 - [**Regular Expression Tester** - (*Tester for Regular Expressions*)](https://www.appdevtools.com/regular-expression-tester)
+- [**Related Repos** - (*Discover related open source projects*)](https://relatedrepos.com/)
 - [**Remove All Except Numbers** - (*Remove All Except Numbers Online*)](https://textedit.tools/digits-only)
 - [**Remove Digits** - (*Remove All Digits From Text*)](https://textedit.tools/remove-digits)
 - [**Remove Multiple Spaces** - (*Remove Multiple Spaces Online Tool*)](https://textedit.tools/remove-multiple-spaces)
