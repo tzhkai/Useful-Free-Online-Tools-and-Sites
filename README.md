@@ -829,7 +829,8 @@ Thanks to:
 - [Jose María Estrade](https://github.com/josemalive)
 - [Losang](https://github.com/nineinch99)
 - [Spark X](https://github.com/sparkxxf)
-- [Stevesmit](https://github.com/stevesmit)  
+- [Stevesmit](https://github.com/stevesmit)
+- [watchdb](https://github.com/watchdb)
 
 <details>
  
