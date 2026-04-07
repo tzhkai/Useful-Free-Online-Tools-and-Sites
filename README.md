@@ -785,7 +785,7 @@ List of some useful free online tools and sites
 - [**MOV to MP4 Converter** - (*Convert MOV to MP4 online, for free*)](https://www.freeconvert.com/mov-to-mp4)
 - [**TikTok Video Downloader** - (*Download TikTok videos in MP4 format*)](https://www.convertidor.mx/herramientas/descargar-videos-tiktok.html)
 - [**Trim Video** - (*Trim or cut video of any format*)](https://online-video-cutter.com/es/)
-- [**UnScreen** - (*Remove Video Background [only for videos of 5 seconds]*)](https://www.unscreen.com/)
+- [**UnScreen** - (*Remove Video Background [only for videos of 5 seconds]*)](https://unscreen.pro/)
 - [**VidMix** - (*Edit videos with your web browser*)](https://vidmix.app/)
 
 ## <a name="weather"></a>**Weather**
@@ -827,6 +827,7 @@ Thanks to:
 - [HumayunNasir22](https://github.com/HumayunNasir22)
 - [Jose María Estrade](https://github.com/josemalive)
 - [Losang](https://github.com/nineinch99)
+- [Spark X](https://github.com/sparkxxf)
 - [Stevesmit](https://github.com/stevesmit)  
 
 <details>
