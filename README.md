@@ -751,6 +751,7 @@ List of some useful free online tools and sites
 - [**Azure DevOps Status** - (*Status of the Azure DevOps Services*)](https://status.dev.azure.com/)
 - [**Downdetector** - (*Real-time problem & outage monitoring*)](https://downdetector.com/)
 - [**Fastly** - (*Service Status*)](https://status.fastly.com/)
+- [**GitHub DMCA takedown**](https://github.com/github/dmca)
 - [**GitHub Status** - (*GitHub Status*)](https://www.githubstatus.com/)
 - [**Xbox Status** - (*Microsoft Xbox Status - En-us*)](https://support.xbox.com/en-US/xbox-live-status)
 
