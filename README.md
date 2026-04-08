@@ -38,7 +38,7 @@ List of some useful free online tools and sites
 [![](https://img.shields.io/badge/Jobs-blue?style=for-the-badge)](#jobs)
 [![](https://img.shields.io/badge/Knowledge-blue?style=for-the-badge)](#knowledge)
 [![](https://img.shields.io/badge/Maps-blue?style=for-the-badge)](#maps_gps)
-[![](https://img.shields.io/badge/Maths-blue?style=for-the-badge)](#maths)
+[![](https://img.shields.io/badge/Maths-blue?style=for-the-badge)](#maths_and_GPS)
 [![](https://img.shields.io/badge/Miscelanea-blue?style=for-the-badge)](#miscelanea)
 [![](https://img.shields.io/badge/Musical%20Production-blue?style=for-the-badge)](#musical_production)
 [![](https://img.shields.io/badge/Network-blue?style=for-the-badge)](#network)
