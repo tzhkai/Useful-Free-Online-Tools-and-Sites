@@ -30,7 +30,6 @@ List of some useful free online tools and sites
 [![](https://img.shields.io/badge/Email-blue?style=for-the-badge)](#email)
 [![](https://img.shields.io/badge/Excel-blue?style=for-the-badge)](#excel)
 [![](https://img.shields.io/badge/Fonts-blue?style=for-the-badge)](#fonts)
-[![](https://img.shields.io/badge/GPS-blue?style=for-the-badge)](#gps)
 [![](https://img.shields.io/badge/History-blue?style=for-the-badge)](#history)
 [![](https://img.shields.io/badge/HTML-blue?style=for-the-badge)](#html)
 [![](https://img.shields.io/badge/Icons%20&%20Logos-blue?style=for-the-badge)](#icons_and_logos)
@@ -38,7 +37,7 @@ List of some useful free online tools and sites
 [![](https://img.shields.io/badge/JSON-blue?style=for-the-badge)](#json)
 [![](https://img.shields.io/badge/Jobs-blue?style=for-the-badge)](#jobs)
 [![](https://img.shields.io/badge/Knowledge-blue?style=for-the-badge)](#knowledge)
-[![](https://img.shields.io/badge/Maps-blue?style=for-the-badge)](#maps)
+[![](https://img.shields.io/badge/Maps-blue?style=for-the-badge)](#maps_gps)
 [![](https://img.shields.io/badge/Maths-blue?style=for-the-badge)](#maths)
 [![](https://img.shields.io/badge/Miscelanea-blue?style=for-the-badge)](#miscelanea)
 [![](https://img.shields.io/badge/Musical%20Production-blue?style=for-the-badge)](#musical_production)
@@ -350,12 +349,6 @@ List of some useful free online tools and sites
 - [**FontYukle!** - (*Free fonts*)](https://www.fontyukle.net/)
 - [**WOFF2 to TTF** - (*Converts your font files online (EOT, OTF, TTF, WOFF, WOFF2) to (EOT, OTF, TTF and WOFF)*)](https://cloudconvert.com/woff2-to-ttf)
 
-## <a name="gps"></a>**GPS**
-- [**Epsg.io** - (*Coordinate Systems Worldwide*)](https://epsg.io/map#srs=4326&x=-3.703406&y=40.416846&z=20&layer=streets)
-- [**GPS Coordinates** - (*Tool used to find the latitude and longitude of your current location*)](https://gps-coordinates.org/)
-- [**LatLong.net** - (*Latitude and Longitude Finder*)](https://www.latlong.net/c/?lat=40.41693373295803&long=-3.703521294304679)
-- [**Map Coordinates** - (*Find maps coordinates and elevation easily*)](https://www.mapcoordinates.net/en)
-
 ## <a name="history"></a>**History**
 - [**Trajan Column Story** - (*Watch and listen to the story of the Column*)](https://colonnatraiana.cultura.gov.it/)
 
@@ -439,9 +432,16 @@ List of some useful free online tools and sites
 - [**Academic Torrents** - (*83TB of research data*)](https://academictorrents.com/)
 - [**arXiv.org** - (*Open-access archive*)](https://arxiv.org/)
 
-## <a name="maps"></a>**Maps**
+## <a name="maps_gps"></a>**Maps and GPS**
+- [**Epsg.io** - (*Coordinate Systems Worldwide*)](https://epsg.io/map#srs=4326&x=-3.703406&y=40.416846&z=20&layer=streets)
+- [**GeoJson.io** - (*Quick, simple tool for creating, viewing, and sharing maps*)](https://geojson.io/)
+- [**GeoJson.io (Next)** - (*Quick, simple tool for creating, viewing, and sharing maps*)](https://geojson.io/next/)
 - [**Google Earth** - (*3D Map*)](https://earth.google.com/web/)
+- [**GPS Coordinates** - (*Tool used to find the latitude and longitude of your current location*)](https://gps-coordinates.org/)
+- [**GPX Editor** - (*View, edit, and create GPX files online*)](https://gpx.studio/)
+- [**LatLong.net** - (*Latitude and Longitude Finder*)](https://www.latlong.net/c/?lat=40.41693373295803&long=-3.703521294304679)
 - [**Maps 3D - Editor** - (*3D Map Editor*)](https://maps3d.io/editor)
+- [**Map Coordinates** - (*Find maps coordinates and elevation easily*)](https://www.mapcoordinates.net/en)
 - [**Maps To STL** - (*Create and download 3D printable STL models of any region on Earth*)](https://www.map2stl.com/)
 - [**MapChecking** - (*Crowd counting tool*)](https://www.mapchecking.com/)
 - [**World Map Simple** - (*The simple world map is the quickest way to create your own custom world map*)](https://www.mapchart.net/world.html)
