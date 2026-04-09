@@ -483,6 +483,7 @@ List of some useful free online tools and sites
 - [**Chord Detection** - (*Find chords in any audio*)](https://samplab.com/chord-detection)
 - [**Chord Player** - (*Online Chord Progression Generator*)](https://www.onemotion.com/chord-player/)
 - [**Chord Progression Generator** - (*Chord progressions*)](https://girlinbluemusic.com/chord-progression-generator/)
+- [**Chord Progression Generator** - (*Create musically intelligent chord progressions*)](https://liotier.github.io/AkaiMPC/AkaiMPCChordProgressionGenerator/)
 - [**ChordGen** - (*AI Chord Progression Generator*)](https://www.chordgen.org/)
 - [**Chosic** - (*Find genre of song or artist and discover genres*)](https://www.chosic.com/music-genre-finder/)
 - [**Chrome Music Lab - Song Maker** - (*To make a song, add notes by clicking the grid*)](https://musiclab.chromeexperiments.com/Song-Maker/)
