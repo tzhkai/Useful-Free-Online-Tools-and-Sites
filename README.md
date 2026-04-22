@@ -353,6 +353,8 @@ List of some useful free online tools and sites
 - [**Trajan Column Story** - (*Watch and listen to the story of the Column*)](https://colonnatraiana.cultura.gov.it/)
 
 ## <a name="html"></a>**HTML**
+- [**Box Shadow Generator** - (*Visual CSS box-shadow builder with live preview, copy ready-to-use CSS*)](https://nocodevista.com/tools/box-shadow-generator)
+- [**Flexbox Generator** - (*Visual flexbox playground to generate CSS code instantly*)](https://nocodevista.com/tools/flexbox-generator)
 - [**Generate a CSS Color Gradient** - (*Generates the CSS code for a linear gradient*)](https://mycolor.space/gradient)
 - [**Grid Playground** - (*Create grid layouts and copy ready-to-implement CSS grid code*)](https://daviddossett.github.io/grid-playground/) [`source code`](https://github.com/daviddossett/grid-playground)
 - [**HTML Formatter** - (*Formats a HTML string/file with your desired indentation level*)](https://www.freeformatter.com/html-formatter.html)
@@ -390,6 +392,7 @@ List of some useful free online tools and sites
 
 ## <a name="images_and_graphics"></a>**Images and Graphics**
 - [**Avatar Maker** - (*Create your own avatar online*)](https://avatarmaker.com/)
+- [**Background Remover** - (*Remove image backgrounds instantly in the browser, no signup required*)](https://nocodevista.com/tools/image-background-remover)
 - [**Base64 Image Encoder & Decoder** - (*Encode an image to Base64, or decode Base64 to an image*)](https://www.appdevtools.com/base64-image-encoder-decoder)
 - [**Base64 Images** - (*Convert to Images to Base64*)](https://www.base64-image.de/)
 - [**Dummy Image Generator** - (*Quickly and easily create placeholder images*)](https://www.websiteplanet.com/webtools/dummy-images-generator/)
@@ -397,6 +400,7 @@ List of some useful free online tools and sites
 - [**Ezgif - GIF Maker** - (*Online GIF maker and image editor*)](https://ezgif.com/maker)
 - [**HEICtoJPEG** - (*Convert HEIC photos to JPEGs*)](https://heictojpg.com/)
 - [**HEICtoPNG** - (*Convert HEIC photos to PNGs*)](https://convertio.co/en/heic-png/)
+- [**Image Compressor** - (*Compress images online without quality loss, runs entirely in the browser*)](https://nocodevista.com/tools/image-compressor)
 - [**Image Generator** - (*Create images of any size*)](https://slothman.dev/image-generator/)
 - [**Image to Base64** - (*Convert image to Base64*)](https://base64.guru/converter/encode/image)
 - [**Image to PDF** - (*Convert images to PDF*)](https://www.convertidor.mx/herramientas/convertir-imagen-a-pdf.html)
