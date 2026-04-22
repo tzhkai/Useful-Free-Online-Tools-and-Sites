@@ -601,6 +601,7 @@ List of some useful free online tools and sites
 - [**Decimal to Octal Converter** - (*Decimal to octal converter*)](https://www.binaryhexconverter.com/decimal-to-octal-converter)
 - [**Diff Checker** - (*Compares to find the differences between two texts*)](https://www.appdevtools.com/diff-checker)
 - [**Extract URLs from Text** - (*Extracts links and URLs from a text string online*)](https://titlecapitalize.com/extract-urls/)
+- [**FastTool** - (*800+ browser-based utilities for JSON, regex, color, image, PDF, SEO, and more*)](https://fasttool.app)
 - [**GUID generator and GUID validator** - (*Random GUID generator*)](https://slothman.dev/guid-generator/)
 - [**Hash Generator** - (*Tool to generate a hash value of a string supporting a lot of algorithms*)](https://www.appdevtools.com/hash-generator)
 - [**Hex to Decimal Converter** - (*Converts Hexadecimal to Binary*)](https://www.easycalculation.com/hex-converter.php)
