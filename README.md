@@ -664,6 +664,7 @@ List of some useful free online tools and sites
 - [**MDB** - (*Snippets for Bootstrap*)](https://mdbootstrap.com/snippets/)
 - [**OneCompiler - Bootstrap** - (*Online Editor for Bootstrap*)](https://onecompiler.com/bootstrap)
 - [**Online C# Compiler** - (*Online compiler for C#, but you will find other programming languages*)](https://www.onlinegdb.com/online_csharp_compiler)
+- [**Online CSharp to Rust Converter** (*Converts C# code into Rust code*)](https://www.codeconvert.ai/csharp-to-rust-converter)
 - [**Online Python** (*Online Python Compiler*)](https://www.online-python.com/)
 - [**Rust Playground** (*To learn and test Rust code online*)](https://play.rust-lang.org/) 
 - [**Python to C#** (*Convert Python to C#*)](https://pythonconvert.com/code-converter/convert-python-to-csharp)
