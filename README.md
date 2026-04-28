@@ -254,6 +254,7 @@ List of some useful free online tools and sites
 - [**Volume Converter** - (*Convert between Volume units*)](https://convertlive.com/c/convert/volume)
 - [**Weight Converter** - (*Convert between Weight units*)](https://convertlive.com/c/convert/weight)
 - [**ConvertPrivately** - (*Privacy-first file conversion and utility tools for PDFs, images, documents, and data — 250+ tools, almost all run in-browser with no uploads or tracking*)](https://convertprivately.com)
+- [**DoItSwift** - (*Privacy-first browser tools — image conversion, PDF editing, HEIC/WebP/AVIF converter, image compressor, 40+ calculators, word counter, Lorem Ipsum generator, and more. No server upload, no signup, 100% browser-based, Unlimited use, No watermarks, Works offline. Everything runs in your browser*)](https://doitswift.com)
 
 ## <a name="charts"></a>**Charts**
 - [**Live Gap Charts** - (*Create your Chart*)](https://charts.livegap.com/app.php?lan=en&gallery=bar)
