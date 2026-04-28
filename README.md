@@ -235,9 +235,11 @@ List of some useful free online tools and sites
 - [**Area Converter** - (*Convert between Area units*)](https://convertlive.com/c/convert/area)
 - [**CityDistance** - (*Calculate distance between cities*)](https://citydistance.io/)
 - [**Convert to PDF** - (*Converts text files to PDF*)](https://ebook.online-convert.com/convert-to-pdf)
+- [**ConvertPrivately** - (*Privacy-first file conversion and utility tools for PDFs, images, documents, and data — 250+ tools, almost all run in-browser with no uploads or tracking*)](https://convertprivately.com)
 - [**CoordConv - Coordinate Converter** - (*Converter GPS coordinate between DD, DMS, UTM, MGRS, Geohash and more*)](https://coordconv.com/)
 - [**Currency Converter** - (*Convert between Currency units*)](https://convertlive.com/c/convert/currency)
 - [**Data Size Converter** - (*Convert between Data size units*)](https://convertlive.com/c/convert/data-size)
+- [**DoItSwift** - (*Privacy-first browser tools — image conversion, PDF editing, HEIC/WebP/AVIF converter, image compressor, 40+ calculators, word counter, Lorem Ipsum generator, and more. No server upload, no signup, 100% browser-based, Unlimited use, No watermarks, Works offline. Everything runs in your browser*)](https://doitswift.com)
 - [**Easy Calculation** - (*Free Calculators and Converters*)](https://www.easycalculation.com/)
 - [**Energy Converter** - (*Convert between Energy units*)](https://convertlive.com/c/convert/energy)
 - [**File Converter** - (*Supports nearly all audio, video, document, ebook, archive, image, spreadsheet, and presentation formats*)](https://cloudconvert.com/)
@@ -253,8 +255,6 @@ List of some useful free online tools and sites
 - [**Unit Converter** - (*Converts a value from a unit to another*)](https://www.appdevtools.com/unit-converter)
 - [**Volume Converter** - (*Convert between Volume units*)](https://convertlive.com/c/convert/volume)
 - [**Weight Converter** - (*Convert between Weight units*)](https://convertlive.com/c/convert/weight)
-- [**ConvertPrivately** - (*Privacy-first file conversion and utility tools for PDFs, images, documents, and data — 250+ tools, almost all run in-browser with no uploads or tracking*)](https://convertprivately.com)
-- [**DoItSwift** - (*Privacy-first browser tools — image conversion, PDF editing, HEIC/WebP/AVIF converter, image compressor, 40+ calculators, word counter, Lorem Ipsum generator, and more. No server upload, no signup, 100% browser-based, Unlimited use, No watermarks, Works offline. Everything runs in your browser*)](https://doitswift.com)
 
 ## <a name="charts"></a>**Charts**
 - [**Live Gap Charts** - (*Create your Chart*)](https://charts.livegap.com/app.php?lan=en&gallery=bar)
@@ -854,6 +854,7 @@ Thanks to:
 - [Losang](https://github.com/nineinch99)
 - [Patrick Lurch](https://github.com/plurch)
 - [rd0-x](https://github.com/rd0-x)
+- [Shashank Vats](https://github.com/vats-shashank)
 - [Spark X](https://github.com/sparkxxf)
 - [Stevesmit](https://github.com/stevesmit)
 - [watchdb](https://github.com/watchdb)
