@@ -255,6 +255,7 @@ List of some useful free online tools and sites
 - [**Unit Converter** - (*Converts a value from a unit to another*)](https://www.appdevtools.com/unit-converter)
 - [**Volume Converter** - (*Convert between Volume units*)](https://convertlive.com/c/convert/volume)
 - [**Weight Converter** - (*Convert between Weight units*)](https://convertlive.com/c/convert/weight)
+- [**Audiobook Speed Calculator** - (*Free online tool to calculate audiobook listening time and playback speed*)](https://audiobookspeedcalculator.co/)
 
 ## <a name="charts"></a>**Charts**
 - [**Live Gap Charts** - (*Create your Chart*)](https://charts.livegap.com/app.php?lan=en&gallery=bar)
