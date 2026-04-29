@@ -855,6 +855,7 @@ Thanks to:
 - [Losang](https://github.com/nineinch99)
 - [Patrick Lurch](https://github.com/plurch)
 - [rd0-x](https://github.com/rd0-x)
+- [readjack](https://github.com/readjack)
 - [Shashank Vats](https://github.com/vats-shashank)
 - [Spark X](https://github.com/sparkxxf)
 - [Stevesmit](https://github.com/stevesmit)
