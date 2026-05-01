@@ -851,6 +851,7 @@ Thanks to:
 - [Brian Berrios](https://github.com/berriob2)
 - [ccascio](https://github.com/ccascio)
 - [chengxing](https://github.com/aichengcc)
+- [Dharma Tamang](https://github.com/dharma0009)
 - [HumayunNasir22](https://github.com/HumayunNasir22)
 - [Jose María Estrade](https://github.com/josemalive)
 - [Losang](https://github.com/nineinch99)
